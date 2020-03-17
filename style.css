@@ -1,0 +1,7 @@
+* {
+  font-family: 'Noto Serif TC', serif;
+}
+
+.fa-trash-o, .card {
+  cursor: pointer;
+}
